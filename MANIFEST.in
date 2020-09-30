@@ -1,0 +1,3 @@
+include sononet/SonoNet16.pth
+include sononet/SonoNet32.pth
+include sononet/SonoNet64.pth
